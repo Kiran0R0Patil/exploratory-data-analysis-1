@@ -10,7 +10,6 @@ It is important to understand the meaning behind each column and how they were b
 Here’s the list of variables and their meaning, taken from the data source:
 
 ```
-
 # People
 ID: Customer's unique identifier
 Year_Birth: Customer's birth year
@@ -38,12 +37,15 @@ AcceptedCmp2: 1 if customer accepted the offer in the 2nd campaign, 0 otherwise
 AcceptedCmp3: 1 if customer accepted the offer in the 3rd campaign, 0 otherwise
 AcceptedCmp4: 1 if customer accepted the offer in the 4th campaign, 0 otherwise
 AcceptedCmp5: 1 if customer accepted the offer in the 5th campaign, 0 otherwise
-Response: 1 if customer accepted the offer in the last campaign, 0 otherwise
+*Response*: 1 if customer accepted the offer in the last campaign, 0 otherwise
 
 # Place
 NumWebPurchases: Number of purchases made through the company’s website
 NumCatalogPurchases: Number of purchases made using a catalogue
 NumStorePurchases: Number of purchases made directly in stores
 NumWebVisitsMonth: Number of visits to company’s website in the last month
-
 ```
+> there are two variables that are not in that list: Z_CostContact and Z_Revenue, which are always equal to 3 and 11, respectively. I assume they mean the cost of contacting a customer and the associated revenue if a customer accepts the offer.
+
+
+
