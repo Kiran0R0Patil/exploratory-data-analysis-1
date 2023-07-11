@@ -2,8 +2,11 @@
 
 *Problem Statement*
 :  to predict customer response to an offer for a specific product or service, enabling targeted marketing strategies and optimizing campaign effectiveness.
-
-1. Reading data documentation
+1. Loading libraries and data
+   ```
+   
+   ```
+3. Reading data documentation
 
 It is important to understand the meaning behind each column and how they were built.
 
