@@ -104,8 +104,7 @@ As we are not only conducting exploratory data analysis (EDA) but also developin
 
 By exploring these associations, we can gain insights into the influence of marital status, education level, and their combined impact on the response variable. This analysis will contribute to our understanding of the factors that potentially influence customer responses and guide our modeling efforts.
 
-3.3 Multivariate data analysis
-
+~~3.3 Multivariate data analysis~~
 ___
 ### 4. Model Selection and Data Splitting
 
