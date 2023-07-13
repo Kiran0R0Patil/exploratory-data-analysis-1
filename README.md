@@ -1,16 +1,18 @@
 # Marketing Campaign Analysis
 
-*Problem Statement*
+### Problem Statement
 :  to predict customer response to an offer for a specific product or service, enabling targeted marketing strategies and optimizing campaign effectiveness.
 ___
-1. **Loading libraries and data**
-   ```
-   
-   ```
+### 1. Loading libraries and data
+```
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+```
 ___
-2. **Reading data documentation**
+### 2. Reading data documentation
 
-It is important to understand the meaning behind each column and how they were built.  
+It is important to understand the meaning behind each column and how they were built.   
 Here’s the list of variables and their meaning, taken from the data source:
 
 ```
@@ -50,8 +52,8 @@ NumStorePurchases: Number of purchases made directly in stores
 NumWebVisitsMonth: Number of visits to company’s website in the last month
 ```
 > there are two variables that are not in that list: Z_CostContact and Z_Revenue, which are always equal to 3 and 11, respectively. I assume they mean the cost of contacting a customer and the associated revenue if a customer accepts the offer.
-___
-3. **Exploring data** *(Exploratory Data Analysis)*
+___  
+### 3. Exploring data *(Exploratory Data Analysis)*
 
 3.1 Univariate data analysis
 
@@ -71,7 +73,6 @@ ___
     'Marital_Status'
     
     'Education'
-    
 ```
 3.1.3 Date
 ```
@@ -95,18 +96,18 @@ By exploring these associations, we can gain insights into the influence of mari
 3.3 Multivariate data analysis
 
 ___
-4. **Model Selection and Data Splitting **
+### 4. Model Selection and Data Splitting
 
 ___
-5. **Model Training**
+### 5. Model Training
 - Split the Data: Split your dataset into training and testing sets. The training set will be used to train the model, while the testing set will be used to evaluate its performance.
 - Train each selected model on the training data separately.
 ___
-6. **Evaluating  Model Performance**
+### 6. Evaluating  Model Performance
 
 Evaluate and compare the performance of each model on the testing data using appropriate evaluation metrics.(such as accuracy, precision, recall, F1 score) This will help us assess how well each model performs and determine their relative strengths and weaknesses.
 ___
-7. **Conclusion**
+### 7. Conclusion
 
 
 
