@@ -1,7 +1,18 @@
 # Marketing Campaign Analysis
 
 ### Problem Statement
-:  to predict customer response to an offer for a specific product or service, enabling targeted marketing strategies and optimizing campaign effectiveness.
+To predict customer response to an offer for a specific product or service, enabling targeted marketing strategies and optimizing campaign effectiveness.
+
+## Content
+[1. Loading libraries and data](https://github.com/Kiran0R0Patil/marketing-campaign#1-loading-libraries-and-data)  
+[2. Reading data documentation](https://github.com/Kiran0R0Patil/marketing-campaign#2-reading-data-documentation)  
+[3. Exploring data (Exploratory Data Analysis)](https://github.com/Kiran0R0Patil/marketing-campaign#3-exploring-data-exploratory-data-analysis)  
+-3.1 Univariate data analysis  
+-3.2 Bivariate data analysis  
+[4. Model Selection and Data Splitting](https://github.com/Kiran0R0Patil/marketing-campaign#4-model-selection-and-data-splitting)  
+[5. Model Training](https://github.com/Kiran0R0Patil/marketing-campaign#5-model-training)  
+[6. Evaluating Model Performance](https://github.com/Kiran0R0Patil/marketing-campaign#6-evaluating--model-performance)  
+[7. Conclusion](https://github.com/Kiran0R0Patil/marketing-campaign#7-conclusion)  
 ___
 ### 1. Loading libraries and data
 ```
