@@ -106,15 +106,17 @@ By exploring these associations, we can gain insights into the influence of mari
 
 ~~3.3 Multivariate data analysis~~
 ___
-### 4. Model Selection and Data Splitting
-
-___
-### 5. Model Training
+### 4. Data Preparation and Splitting  
 - Split the Data: Split your dataset into training and testing sets. The training set will be used to train the model, while the testing set will be used to evaluate its performance.
-- Train each selected model on the training data separately.
 ___
-### 6. Evaluating  Model Performance
+### 5. Model Selection and Training  
+- Model selection involves choosing the architecture and type of model that best suits the problem at hand.   
+1. **Logistic Regression:** Logistic Regression is ==widely used for binary classification problems== and is often preferred when ==interpretability and simplicity== are important.  
+It's a foundational model in many statistical and machine learning applications.
+- Train each selected model on the training data separately.  
 
+___
+### 6. Evaluating  Model Performance  
 Evaluate and compare the performance of each model on the testing data using appropriate evaluation metrics.(such as accuracy, precision, recall, F1 score) This will help us assess how well each model performs and determine their relative strengths and weaknesses.
 ___
 ### 7. Conclusion
