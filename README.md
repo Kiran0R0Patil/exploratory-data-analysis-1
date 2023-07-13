@@ -9,8 +9,8 @@ To predict customer response to an offer for a specific product or service, enab
 [3. Exploring data (Exploratory Data Analysis)](https://github.com/Kiran0R0Patil/marketing-campaign#3-exploring-data-exploratory-data-analysis)  
 -3.1 Univariate data analysis  
 -3.2 Bivariate data analysis  
-[4. Model Selection and Data Splitting](https://github.com/Kiran0R0Patil/marketing-campaign#4-model-selection-and-data-splitting)  
-[5. Model Training](https://github.com/Kiran0R0Patil/marketing-campaign#5-model-training)  
+[4. Data Preparation and Splitting](https://github.com/Kiran0R0Patil/marketing-campaign#4-data-preparation-and-splitting)  
+[5. Model Selection and Training](https://github.com/Kiran0R0Patil/marketing-campaign#5-model-selection-and-training)  
 [6. Evaluating Model Performance](https://github.com/Kiran0R0Patil/marketing-campaign#6-evaluating--model-performance)  
 [7. Conclusion](https://github.com/Kiran0R0Patil/marketing-campaign#7-conclusion)  
 ___
