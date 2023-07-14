@@ -112,6 +112,7 @@ ___
 ### 5. Model Selection and Training  
 Model selection involves choosing the architecture and type of model that best suits the problem at hand.   
 1. **Logistic Regression:** Logistic Regression is widely used for binary classification problems and is often preferred when interpretability and simplicity are important. It's a foundational model in many statistical and machine learning applications.
+2. **Decision Trees:** Decision Trees are versatile models that can handle both categorical and numerical features. They partition the feature space based on decision rules, allowing for intuitive interpretations. They are easy to understand and visualize, making them useful for exploratory analysis and generating decision rules.
 
 Train each selected model on the training data separately.  
 ___
