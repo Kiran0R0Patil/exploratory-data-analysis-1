@@ -106,8 +106,11 @@ By exploring these associations, we can gain insights into the influence of mari
 
 ~~3.3 Multivariate data analysis~~
 ___
-### 4. Data Preparation and Splitting  
-- Split the Data: Split your dataset into training and testing sets. The training set will be used to train the model, while the testing set will be used to evaluate its performance.
+### 4. Data Preparation and Splitting   
+4.1 Data Preparation: Clean and preprocess the collected data to make it suitable for analysis. This step involves handling missing values, dealing with outliers, encoding categorical variables, scaling or normalizing features, and any other necessary transformations.  
+Preprocessing ensures the data is in a consistent and appropriate format for modeling.
+
+4.2 Split the Data: Split your dataset into training and testing sets. The training set will be used to train the model, while the testing set will be used to evaluate its performance.
 ___
 ### 5. Model Selection and Training  
 Model selection involves choosing the architecture and type of model that best suits the problem at hand.   
