@@ -128,6 +128,12 @@ ___
 Evaluate and compare the performance of each model on the testing data using appropriate evaluation metrics.(such as accuracy, precision, recall, F1 score) This will help us assess how well each model performs and determine their relative strengths and weaknesses.
 ___
 ### 7. Conclusion
+Based on the results obtained from the resampled data, it is evident that the Random Forest and Decision Tree models have performed the best. Since our business problem focuses on "enabling targeted marketing strategies and optimizing campaign effectiveness," the key criteria for selecting the best model are accuracy and f1 scores.
 
+Among the two models, the Random Forest model stands out with the highest accuracy of 95.47% and the best f1 score of 95.60%. These metrics indicate that the Random Forest model demonstrates excellent predictive capabilities and can effectively identify positive and negative responses from customers, making it a reliable and effective model for the task at hand.
+
+Therefore, it is recommended to utilize the Random Forest model for predicting customer responses in your marketing campaigns. Its high accuracy and f1 scores make it a suitable choice for enabling targeted marketing strategies, ensuring that the campaigns are more efficient and successful in reaching the right audience and optimizing overall campaign effectiveness.
+
+___
 
 
