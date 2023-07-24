@@ -113,15 +113,12 @@ Preprocessing ensures the data is in a consistent and appropriate format for mod
 4.2 Split the Data: Split your dataset into training and testing sets. The training set will be used to train the model, while the testing set will be used to evaluate its performance.
 ___
 ### 5. Model Selection and Training  
-Model selection involves choosing the architecture and type of model that best suits the problem at hand.   
-1. **Logistic Regression:** Logistic Regression is widely used for binary classification problems and is often preferred when interpretability and simplicity are important. It's a foundational model in many statistical and machine learning applications.
-2. **Decision Trees:** Decision Trees are versatile models that can handle both categorical and numerical features. They partition the feature space based on decision rules, allowing for intuitive interpretations. They are easy to understand and visualize, making them useful for exploratory analysis and generating decision rules.
-3. **Random Forest:** Random Forest is an ensemble model that combines multiple decision trees. Each tree is trained on a random subset of features and produces a prediction. The final prediction is obtained by aggregating the predictions of individual trees. Random Forests are known for their robustness, handling noisy data, and reducing overfitting.
-4. **Gradient Boosting Models:** Gradient boosting models sequentially build an ensemble of weak learners, typically decision trees, by focusing on the mistakes made by the previous learners. AdaBoost, Gradient Boosting Machines (GBM), and XGBoost are popular examples. Gradient boosting models are powerful and often achieve state-of-the-art performance, but they can be computationally intensive.
-- *XGBoost (Extreme Gradient Boosting) and LightGBM (Light Gradient Boosting Machine) are two popular and powerful gradient boosting libraries specifically designed to handle large datasets efficiently. They are optimized for speed and performance, making them well-suited for scenarios where traditional implementations of bagging and boosting, such as those provided by scikit-learn, may become computationally expensive and time-consuming.*  
-- Since out dataset is not large we can use traditional bagging and boosting models.
-- *Gradient Boosting with scikit-learn:* builds a strong model by combining multiple weak learners using a gradient descent optimization algorithm. It starts with a weak model (often a decision tree), and in subsequent iterations, it fits new models to the negative gradients of the loss function with respect to the previous model's predictions. This process gradually improves the model's performance.  
-scikit-learn also offers an implementation of Gradient Boosting for small datasets. It uses decision trees as the base estimator, and you can control the number of boosting stages and other hyperparameters to prevent overfitting on small datasets.  
+Model selection involves choosing the architecture and type of model that best suits the problem at hand.     
+1. Logistic Regression: A classification algorithm used for predicting binary outcomes based on input features.
+2. Decision Trees: A tree-like model used for classification and regression tasks, where each internal node represents a feature, each branch represents a decision, and each leaf node represents an outcome.
+3. Random Forest: An ensemble learning method that combines multiple decision trees to improve predictive accuracy and reduce overfitting.
+4. Gradient Boosting: An ensemble technique that builds multiple weak learners (typically decision trees) sequentially, with each one correcting the errors of its predecessor, leading to improved model performance.
+  
 
 ___
 ### 6. Evaluating  Model Performance  
