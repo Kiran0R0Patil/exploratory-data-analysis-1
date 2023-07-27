@@ -69,26 +69,14 @@ ___
 3.1 Univariate data analysis
 
 3.1.1 Numeric data  
-```
-    'Year_Birth', 'Income', 'Kidhome','Teenhome','Recency', 
-    'MntWines', 'MntFruits','MntMeatProducts', 'MntFishProducts', 
-    'MntSweetProducts', 'MntGoldProds', 'NumDealsPurchases', 'NumWebPurchases',
-    'NumCatalogPurchases', 'NumStorePurchases', 'NumWebVisitsMonth'
-```
-3.1.2 Categorical data
-```
-    'AcceptedCmp1', 'AcceptedCmp2', 'AcceptedCmp3','AcceptedCmp4', 'AcceptedCmp5'
-    
-    'Complain', 'Response'
-    
-    'Marital_Status'
-    
-    'Education'
-```
-3.1.3 Date
-```
+('Year_Birth', 'Income', 'Kidhome','Teenhome','Recency', 'MntWines', 'MntFruits','MntMeatProducts', 'MntFishProducts', 'MntSweetProducts', 'MntGoldProds', 'NumDealsPurchases', 'NumWebPurchases','NumCatalogPurchases', 'NumStorePurchases', 'NumWebVisitsMonth' )
+
+3.1.2 Categorical data  
+    ('AcceptedCmp1', 'AcceptedCmp2', 'AcceptedCmp3','AcceptedCmp4', 'AcceptedCmp5', 'Complain', 'Response', 'Marital_Status', 'Education')
+
+3.1.3 Date  
     Dt_Customer
-```
+
 
 3.2 Bivariate data analysis
 - scatter_matrix for all variables
