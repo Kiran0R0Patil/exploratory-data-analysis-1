@@ -4,15 +4,16 @@
 To predict customer response to an offer for a specific product or service, enabling targeted marketing strategies and optimizing campaign effectiveness.
 
 ## Content
-[1. Loading libraries and data](https://github.com/Kiran0R0Patil/marketing-campaign#1-loading-libraries-and-data)  
-[2. Reading data documentation](https://github.com/Kiran0R0Patil/marketing-campaign#2-reading-data-documentation)  
-[3. Exploring data (Exploratory Data Analysis)](https://github.com/Kiran0R0Patil/marketing-campaign#3-exploring-data-exploratory-data-analysis)  
+[1. Loading libraries and data](https://github.com/Kiran0R0Patil/marketing-campaign-prediction#1-loading-libraries-and-data)  
+[2. Reading data documentation](https://github.com/Kiran0R0Patil/marketing-campaign-prediction#2-reading-data-documentation)  
+[3. Exploring data (Exploratory Data Analysis)](https://github.com/Kiran0R0Patil/marketing-campaign-prediction#3-exploring-data-exploratory-data-analysis)  
 -3.1 Univariate data analysis  
 -3.2 Bivariate data analysis  
-[4. Data Preparation and Splitting](https://github.com/Kiran0R0Patil/marketing-campaign#4-data-preparation-and-splitting)  
-[5. Model Selection and Training](https://github.com/Kiran0R0Patil/marketing-campaign#5-model-selection-and-training)  
-[6. Evaluating Model Performance](https://github.com/Kiran0R0Patil/marketing-campaign#6-evaluating--model-performance)  
-[7. Conclusion](https://github.com/Kiran0R0Patil/marketing-campaign#7-conclusion)  
+[4. Data Preparation and Splitting](https://github.com/Kiran0R0Patil/marketing-campaign-prediction#4-data-preparation-and-splitting)  
+[5. Model Selection and Training](https://github.com/Kiran0R0Patil/marketing-campaign-prediction#5-model-selection-and-training)  
+[6. Evaluating Model Performance](https://github.com/Kiran0R0Patil/marketing-campaign-prediction#6-evaluating--model-performance)  
+[7. Conclusion](https://github.com/Kiran0R0Patil/marketing-campaign-prediction#7-conclusion)  
+[8. Deployment phase](https://github.com/Kiran0R0Patil/marketing-campaign-prediction#8-deployment-phase)  
 ___
 ### 1. Loading libraries and data
 ```
@@ -121,4 +122,5 @@ Therefore, it is recommended to utilize the Random Forest model for predicting c
 
 ___
 
+### 8. Deployment phase
 
