@@ -4,7 +4,7 @@
 To predict customer response to an offer for a specific product or service, enabling targeted marketing strategies and optimizing campaign effectiveness.
 
 ## Content
-[1. Loading libraries and data](https://github.com/patilkiran123123/marketing-campaign-prediction#1-loading-libraries-and-data)  
+[1. Loading libraries and data](https://github.com/patilkiran123/marketing-campaign-prediction#1-loading-libraries-and-data)  
 [2. Reading data documentation](https://github.com/patilkiran123/marketing-campaign-prediction#2-reading-data-documentation)  
 [3. Exploring data (Exploratory Data Analysis)](https://github.com/patilkiran123/marketing-campaign-prediction#3-exploring-data-exploratory-data-analysis)  
 -3.1 Univariate data analysis  
