@@ -5,6 +5,9 @@ Aditya Marketing is facing low response rates to their marketing campaigns. The 
 
 To predict customer response to an offer for a specific product or service, enabling targeted marketing strategies and optimizing campaign effectiveness.
 
+###
+![Power BI dashboard](PowerBI-dashboard.JPG)
+
 ## Content
 [1. Loading libraries and data](https://github.com/patilkiran123/Marketing-Campaign-Analysis#1-loading-libraries-and-data)  
 [2. Reading data documentation](https://github.com/patilkiran123/Marketing-Campaign-Analysis#2-reading-data-documentation)  
